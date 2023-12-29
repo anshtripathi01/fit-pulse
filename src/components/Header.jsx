@@ -9,6 +9,7 @@ export const Header = () => {
         <NavLink to='exercise'>Exercise</NavLink>
         <NavLink to='/food'>Food</NavLink>
         <NavLink to='/goal'>Goal</NavLink>
+        <NavLink to="https://github.com/anshtripathi01/fit-pulse">Github</NavLink>
     </div>
   )
 }
